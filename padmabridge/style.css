@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.slidbar{
+    position: relative;
+}
+.logotop{
+    position: absolute;
+    top: 0;
+}
+/* menupart */
+.menu{
+    background-color: rgb(199, 199, 199);
+
+}
+.menu li a:hover{
+    background: rgb(90, 223, 78);
+    color: rgb(219, 219, 219);
+
+}
+.menu li a{
+    text-decoration: none;
+    padding: 10px;
+    color: rgb(77, 77, 77);
+    border-right: 1px solid rgb(177, 177, 177);
+    display: inline-block;
+    font-size: 18px;
+}
+
+/* menupart */
+.hero img{
+    position: absolute;
+    top: -15px;
+    left: 45%;
+}
+/* bridge photo part */
+.cont{
+    width: 1020px;
+    margin: 0 auto;
+}
+/* bridge photo part */
+.bot{
+    background-color: aqua;
+}
+.foot{
+    background-color: rgb(85, 80, 80);
+    border-top: 10px solid rgb(218, 64, 64);
+}
+.foot li a{
+    text-decoration: none;
+    font-size: 13px;
+    color: rgb(221, 220, 220);
+}
+.footleft li p{
+
+}
